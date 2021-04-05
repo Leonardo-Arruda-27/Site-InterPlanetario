@@ -2,7 +2,7 @@
 
 -Home
 
--Valores
+-Missão - Visão - Valores
 
 -Sobre Nós
 
